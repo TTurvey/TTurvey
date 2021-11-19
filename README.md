@@ -1,24 +1,29 @@
-### Hi there 👋
+### **Hello** 👋
 
-Here are some ideas to get you started:
+#### Current [Makers Academy](https://makers.tech/) student seeking Junior Software Developer/Engineering Roles in London. Remote working opportunities would also be considered.
+---
+####  **Contact info:** 📫
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/timturvey) 
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](tim.turvey@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Ruby, Ruby on Rails and JavaScript.
-- :man_student: I’m currently a student at Makers Academy.
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: tturvey@hotmail.co.uk
-- ⚡ Fun fact: ...
+---
+<p align="center">
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=tturvey&show_icons=true&theme=noctis_minimus" />  
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturvey&layout=compact&theme=noctis_minimus"/>
+</p>
 
+---
+### **Languages and frameworks:**
+#### **Experience in:**
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tturvey)](https://github.com/anuraghazra/github-readme-stats)
+#### **Learning:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
-![](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+---
+### **Work Experience:**
+Over the past 3 years, I've worked in financial audit providing assurance over corporate financial statements across a wide variety of industries. In August 2021, I made steps to change careers to become a software developer. I am currently a student [Makers Academy](https://makers.tech/).
 
-![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
+---
+### **Fun Fact:** ⚡ 
+I am a self-proclaimed film nerd and a fitness enthusiast.
