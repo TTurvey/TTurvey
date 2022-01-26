@@ -1,12 +1,27 @@
 ### **Hello** 👋
 
-#### Current [Makers Academy](https://makers.tech/) student seeking Junior Software Developer/Engineering Roles in London. Remote working opportunities would also be considered.
+#### Graduate of [Makers Academy](https://makers.tech/) coding bootcamp seeking Junior Software Developer/Engineering Roles in London. Remote working opportunities would also be considered.
 ---
 ####  **Contact info:** 📫
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/timturvey) 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](tim.turvey@outlook.com)
 
 ---
+#### **Projects:**
+
+Final project	A webapp to do x.	React, Jest, etc.
+Something else worked on	A webapp to do y.	Ruby
+Work Experience
+Company Name (start-date to end-date)
+Your job title
+
+| Name        | Description | Tech/Tools     |
+| :---        |    :----:   |          ---: |
+| Bar.io      | Built a bar finder web app In a team of 4 developers that uses Google Maps and Google Places API’s to provide users with the top 5 rated bars within a selectable walking distance of the user’s current location. The backend was built using Node.js and Express to create a RESTful API whilst React was used on the frontend. Unit testing was carried out with Jest.        | React, Node.js, Express          |
+| Chitter     | Created a clone of the popular Twitter app that utilises user authentication and PostgreSQL databases.        | Ruby, rspec, Sinatra             |
+| Minesweeper | A web based Minesweeper game.        | Javascript, Node.js, Express     |
+
+
 <p align="center">
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=tturvey&show_icons=true&theme=noctis_minimus" />  
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturvey&layout=compact&theme=noctis_minimus"/>
