@@ -5,15 +5,10 @@
 ####  **Contact info:** 📫
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/timturvey) 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](tim.turvey@outlook.com)
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/timturvey)&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 ---
 #### **Projects:**
-
-Final project	A webapp to do x.	React, Jest, etc.
-Something else worked on	A webapp to do y.	Ruby
-Work Experience
-Company Name (start-date to end-date)
-Your job title
 
 | Name        | Description | Tech/Tools     |
 | :---        |    :----:   |          ---: |
