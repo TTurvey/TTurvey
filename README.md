@@ -3,9 +3,10 @@
 #### Graduate of [Makers Academy](https://makers.tech/) coding bootcamp seeking Junior Software Developer/Engineering Roles in London. Remote working opportunities would also be considered.
 ---
 ####  **Contact info:** 📫
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white) LinkedIn](www.linkedin.com/in/timturvey) 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](tim.turvey@outlook.com)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/timturvey)&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/timturvey)&nbsp;
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white) ](tim.turvey@outlook.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) ](tim.turvey@outlook.com)
+
 ---
 #### **Projects:**
 
