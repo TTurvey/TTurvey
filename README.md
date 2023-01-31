@@ -42,13 +42,13 @@
   - You can view my current resume [here](resume.pdf)
 </div>
 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/TTurvey)&nbsp;
+<div align="right">
 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tturvey)&nbsp;
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/TTurvey/)&nbsp;
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16609034/tim-turvey)&nbsp;
+  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/TTurvey)&nbsp;
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tturvey)&nbsp;
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/TTurvey/)&nbsp;
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16609034/tim-turvey)&nbsp;
+</div>
 
 <div align=left style="margin-top:60px">
   <h2>
@@ -114,9 +114,9 @@
   </h2>
 </div>
 
-<div align="center">
-  <img width="50%" style="padding:15px;" src="https://github-readme-stats.vercel.app/api?username=tturvey&show_icons=true&theme=noctis_minimus"/> 
-  <img width="50%" style="padding:15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturvey&layout=compact&theme=noctis_minimus"/>
+<div style="display: flex; flex-direction: row;">
+  <img class="img" width="50%" height="auto" style="padding:15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturvey&layout=compact&theme=noctis_minimus"/>
+  <img class="img" width="50%" height="auto" style="padding:15px;" src="https://github-readme-stats.vercel.app/api?username=tturvey&show_icons=true&theme=noctis_minimus"/> 
 </div>
 
 <div align="center">
@@ -136,5 +136,3 @@
   
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tturvey)
 </div
-
-
