@@ -1,23 +1,17 @@
 <div align="right">
   
-  ![](https://komarev.com/ghpvc/?username=tturvey&style=for-the-badge)
-</div>
-
-<div align="right">
-  
-  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tim.turvey@outlook.com)&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timturvey)&nbsp;
+  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tim.turvey@outlook.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timturvey)
 </div>
 
 <div align="left">
-  <h1>
-    <p style="justify-content: space-between; margin: 0px;">
+  <h1 style="justify-content: space-between; margin: 0px;">
       <b>Hello there</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-    </p>
   </h1>
 </div>
 
 <div align="left" style="margin-bottom:20px; margin-right:20px;">
+  
   💼 <b><i>Workflow Developer</i></b> at
   <a href="https://www.rsmuk.com/">
     <b><i>RSM UK</i></b>
@@ -30,17 +24,17 @@
   <h2>
     <b> About Me </b>
   </h2>
-  I'm a passionate software developer who loves to learn. Experienced in TDD, OOP design principles. Crafting quality code since 2021.
-  
-  <h3>Professional...</h3>
-  - 3 years of professional experience in software development
-  - Career change and graduated from <a href="https://makers.tech/">Makers Academy</a> in Dec 2021
-  - 3 years of professional experience in financial audit
+</div>
 
- Outside of work...
+<div align=left style="margin-top:60px">
+  I'm a passionate software developer who loves to learn. Experienced in TDD, OOP design principles. Crafting quality code since 2021.
+
+  An engineer at heart who found software development after 3 years of professional experience in financial audit.
  
-  📚 At the moment, I am learning Android app development.
+  👨‍🎓 <a href="https://makers.tech/">Makers Academy</a> graduate in Dec 2021. 
   
+  📚 At the moment, I am learning Android app development.
+
   ⚡ Fun Fact - When I'm not coding, I am enjoying my hobbies as a fitness enthusiast and film buff.
 </div>
 
