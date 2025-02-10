@@ -27,15 +27,13 @@
 </div>
 
 <div align=left style="margin-top:60px">
-  I'm a passionate software developer who loves to learn. Experienced in TDD, OOP design principles. Crafting quality code since 2021.
-
-  An engineer at heart who found software development after 3 years of professional experience in financial audit.
- 
-  👨‍🎓 <a href="https://makers.tech/">Makers Academy</a> graduate in Dec 2021. 
+  I'm a passionate software developer who loves to learn. Experienced in TDD, OOP design principles. I found software engineering after 3 years of professional experience in financial audit. Crafting quality code since 2021.
   
   📚 At the moment, I am learning Android app development.
-
-  ⚡ Fun Fact - When I'm not coding, I am enjoying my hobbies as a fitness enthusiast and film buff.
+  
+  👨‍🎓 <a href="https://makers.tech/">Makers Academy</a> graduate in Dec 2021.
+  
+  ⚡ When I'm not coding, I am enjoying my hobbies as a fitness enthusiast and film buff.
 </div>
 
 <div align=left style="margin-top:60px">
